@@ -12,8 +12,8 @@ Finally, the 'tidy_data.txt' is the final output.
 ### tidy_data.txt code book
 The final data has 6 rows and 80 columns.   
 The 6 rows are the 6 activities: 'LAYING', 'SITTING', 'STANDING', 'WALKING', 'WALKING_DOWNSTAIRS', 'WALKING_UPSTAIRS', in this order.
-For the 80 columns, the first column called the 'activiy' contains the activity names. Then, the rest 79 columns contain the average for the grouped by these activites for 79 variables. More details below:
-Column Number          Column Name 
+For the 80 columns, the first column called the 'activiy' contains the activity names. Then, the rest 79 columns contain the average for the grouped by these activites for 79 variables. More details below:   
+Column Number          Column Name   
 2                tBodyAcc-mean()-X        
 3                tBodyAcc-mean()-Y   
 4                tBodyAcc-mean()-Z   
