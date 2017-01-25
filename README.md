@@ -93,3 +93,9 @@ Column Number          Column Name
 78       fBodyBodyAccJerkMag-std()   
 79          fBodyBodyGyroMag-std()   
 80      fBodyBodyGyroJerkMag-std()  
+    
+Some descriptions:
+mean(): Mean value  
+std(): Standard deviation  
+meanFreq(): Weighted average of the frequency components to obtain a mean frequency  
+'-XYZ' is used to denote 3-axial signals in the X, Y and Z directions.  
