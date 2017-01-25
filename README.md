@@ -15,21 +15,21 @@ The 6 rows are the 6 activities: 'LAYING', 'SITTING', 'STANDING', 'WALKING', 'WA
 For the 80 columns, the first column called the 'activiy' contains the activity names. Then, the rest 79 columns contain the average for the grouped by these activites for 79 variables. More details below:
 Column Number          Column Name 
 2                tBodyAcc-mean()-X        
-3                tBodyAcc-mean()-Y
-4                tBodyAcc-mean()-Z
-5             tGravityAcc-mean()-X
-6             tGravityAcc-mean()-Y
-7             tGravityAcc-mean()-Z
-8            tBodyAccJerk-mean()-X
-9            tBodyAccJerk-mean()-Y
-10           tBodyAccJerk-mean()-Z
-11              tBodyGyro-mean()-X
-12              tBodyGyro-mean()-Y
-13              tBodyGyro-mean()-Z
-14          tBodyGyroJerk-mean()-X
-15          tBodyGyroJerk-mean()-Y
-16          tBodyGyroJerk-mean()-Z
-17              tBodyAccMag-mean()
+3                tBodyAcc-mean()-Y   
+4                tBodyAcc-mean()-Z   
+5             tGravityAcc-mean()-X  
+6             tGravityAcc-mean()-Y  
+7             tGravityAcc-mean()-Z  
+8            tBodyAccJerk-mean()-X  
+9            tBodyAccJerk-mean()-Y  
+10           tBodyAccJerk-mean()-Z  
+11              tBodyGyro-mean()-X   
+12              tBodyGyro-mean()-Y   
+13              tBodyGyro-mean()-Z  
+14          tBodyGyroJerk-mean()-X  
+15          tBodyGyroJerk-mean()-Y  
+16          tBodyGyroJerk-mean()-Z  
+17              tBodyAccMag-mean()   
 18           tGravityAccMag-mean()
 19          tBodyAccJerkMag-mean()
 20             tBodyGyroMag-mean()
